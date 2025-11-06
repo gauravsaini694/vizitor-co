@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{- partial "head.html" . -}}
+<body id="homepage">
+    {{ if not .Params.noheader }}
+        {{ partial "header.html" . }}
+    {{ end }}
+
+    <div>
+        {{- block "main" . }}{{- end }}
+    </div>
+
+    {{ if not .Params.noheader }}
+        {{ partial "footer.html" . }}
+    {{ end }}
+</body>
+</html>
