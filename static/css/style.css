@@ -429,6 +429,79 @@
    margin-bottom: 8px;
  }
 
+  /* Footer Styling */
+    footer {
+      background-color: #DF6D27;
+      color: #fff;
+      padding: 60px 0 30px;
+    }
+
+    footer a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    .footer-logo h4 {
+      font-weight: 700;
+    }
+
+    .login{
+      font-size: 20px;
+      font-weight: 600;
+    }
+
+    .footer-logo p {
+      margin-bottom: 5px;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+      margin-top: 30px;
+      padding-top: 20px;
+      font-size: 14px;
+    }
+
+    .social-icons a {
+      color: #fff;
+      margin-right: 15px;
+      font-size: 18px;
+      transition: opacity 0.3s;
+    }
+
+    .social-icons a:hover {
+      opacity: 0.7;
+    }
+
+    footer strong {
+      font-weight: 600;
+      font-size: 18px;
+    }
+
+    .footer-links h6 {
+      font-weight: 600;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+
+    .footer-links ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .footer-links ul li {
+      margin-bottom: 6px;
+    }
+
+    .footer-divider {
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+      margin: 25px 0;
+    }
+
  /* --------------------------------------------- */
  /* phone */
  /* ------------------------------------------------- */
