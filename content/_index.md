@@ -1,9 +1,7 @@
 ---
-title: "ViithiiChat - AI Chatbots Trained on Your Knowledge Base"
+title: "AI Workplace Management by Vizitor | All-in-One Smart Office Solution"
 draft: false
-description : "ViithiiChat - AI Chatbots Trained on Your Knowledge Base" 
-keywords:
-- ViithiiChat – AI Agents Trained on Your Knowledge Base
+description : "Manage visitors, meetings, queues, attendance, deliveries, and space with Vizitor’s AI workplace platform. Automate tasks and simplify your workday." 
 
 ---
 
